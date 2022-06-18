@@ -33,6 +33,9 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vSTsGlwkOAE
 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-cSMXbO6w-N8/YMzTuUPGxGI/AAAAAAAANNo/sdaadQpPmqgcIVmmp78Oecw83XMztIrHwCNcBGAsYHQ/s200/Astro_Ria.png",Astro RIA
 https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 
