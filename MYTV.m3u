@@ -36,6 +36,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="501" tvg-logo="https://1.bp.blogspot.com/-Cv9PLXz9JW4/YM2lMFcup6I/AAAAAAAANO8/ubPEY6ExylgsazXZLohzlfAjEdfW3-TsgCNcBGAsYHQ/s200/Astro_Warna.png",Astro Warna
+https://tvmalaysia.xyz:5443/LiveApp/streams/708298874996716764868008.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-cSMXbO6w-N8/YMzTuUPGxGI/AAAAAAAANNo/sdaadQpPmqgcIVmmp78Oecw83XMztIrHwCNcBGAsYHQ/s200/Astro_Ria.png",Astro RIA
 https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 
