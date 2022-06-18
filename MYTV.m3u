@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml"
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-480.m3u8
 
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/049308573816025645291571.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -25,10 +25,19 @@ https://mediahomes.github.io/assets/my/ch_tv9.m3u8|Referer=https://www.dailymoti
 https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TVOkey" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-# #EXTINF:-1 tvg-id="NauraHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
-# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+#EXTINF:-1 tvg-id="Citra" group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-LnE63mkNZJA/YMvG8RQ1iGI/AAAAAAAANM4/jiu44eQf950-3dYeFZK9AyN1H3NCHGjJQCNcBGAsYHQ/s200/Astro_Citra.png",Citra
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
+
+#EXTINF:-1 tvg-id="Prima" group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-X5jXg6FeYA8/YMxbAJelu6I/AAAAAAAANNQ/5R1shYmRr3IbTBvEBUgMByLcCzOUc7HQwCNcBGAsYHQ/s200/Astro_Prima_on-screen_bugs_logo_2003.png",Prima
+https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
+
+#EXTINF:-1 tvg-id="Ria" group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-cSMXbO6w-N8/YMzTuUPGxGI/AAAAAAAANNo/sdaadQpPmqgcIVmmp78Oecw83XMztIrHwCNcBGAsYHQ/s200/Astro_Ria.png",Ria
+https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
+
+#EXTINF:-1 tvg-id="Ceria" group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-9uSicEQvbSY/YM4ymV2-f1I/AAAAAAAANPw/a_oyFFPHcioEyaYLXKg3MgSA2q5W6jzZQCNcBGAsYHQ/s200/Astro_Ceria.png",Ceria
+ttps://tvmalaysiaonline.xyz:5443/LiveApp/streams/462882783099946595094212.m3u8
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -46,13 +55,13 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="CNAHD" group-title="NEWS" tvg-logo=https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
