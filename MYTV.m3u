@@ -52,7 +52,7 @@ https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 https://tvmalaysiaonline.xyz:5443/LiveApp/streams/462882783099946595094212.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="393" tvg-id="393" tvg-chno="120" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",ONE HD
-playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 
 ##EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 #https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
