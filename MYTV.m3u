@@ -36,19 +36,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="501" tvg-logo="https://1.bp.blogspot.com/-Cv9PLXz9JW4/YM2lMFcup6I/AAAAAAAANO8/ubPEY6ExylgsazXZLohzlfAjEdfW3-TsgCNcBGAsYHQ/s200/Astro_Warna.png",Astro Warna
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="501" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna
 https://tvmalaysia.xyz:5443/LiveApp/streams/708298874996716764868008.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-cSMXbO6w-N8/YMzTuUPGxGI/AAAAAAAANNo/sdaadQpPmqgcIVmmp78Oecw83XMztIrHwCNcBGAsYHQ/s200/Astro_Ria.png",Astro RIA
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro RIA
 https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-X5jXg6FeYA8/YMxbAJelu6I/AAAAAAAANNQ/5R1shYmRr3IbTBvEBUgMByLcCzOUc7HQwCNcBGAsYHQ/s200/Astro_Prima_on-screen_bugs_logo_2003.png",Astro Prima
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-LnE63mkNZJA/YMvG8RQ1iGI/AAAAAAAANM4/jiu44eQf950-3dYeFZK9AyN1H3NCHGjJQCNcBGAsYHQ/s200/Astro_Citra.png",Citra
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Citra
 https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="631" tvg-id="631" tvg-chno="116" tvg-logo="https://1.bp.blogspot.com/-9uSicEQvbSY/YM4ymV2-f1I/AAAAAAAANPw/a_oyFFPHcioEyaYLXKg3MgSA2q5W6jzZQCNcBGAsYHQ/s200/Astro_Ceria.png",Ceria
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="631" tvg-id="631" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Ceria
 https://tvmalaysiaonline.xyz:5443/LiveApp/streams/462882783099946595094212.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
