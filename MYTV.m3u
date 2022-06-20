@@ -66,6 +66,24 @@ http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN HD
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8 
 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/THRILL%20copy.png",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/K-Plus.jpg",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8 
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/Rock-Entertainment.jpg",Rock Entertainment
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8 
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits-Movies.png",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-World.jpg",Cinemaworld
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="701" tvg-id="120" tvg-chno="701" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-movies.jpg",CinemaEurope
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
