@@ -46,7 +46,7 @@ https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Citra
-https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
+https://tvmalaysia.xyz/hls/citra.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Ceria
 https://tvmalaysiaonline.xyz:5443/LiveApp/streams/462882783099946595094212.m3u8
