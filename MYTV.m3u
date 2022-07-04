@@ -40,7 +40,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://tvmalaysia.xyz/hls/warna.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro RIA
-https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
+https://tvmalaysia.xyz/hls/ria.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
