@@ -48,7 +48,7 @@ https://tvmalaysia.xyz:5443/LiveApp/streams/776924743231420143634296.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="104" tvg-id="104" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro RIA
-https://linears-playback.astro.com.my/vsg/21uRsll1l3HycZyhhRKd2NEYunyzj2Jnxj8ff5ZEpKWZk=9g8x/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
